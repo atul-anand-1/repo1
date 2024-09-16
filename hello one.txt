@@ -1,2 +1,21 @@
 hello one -- 
 one one 
+<<<<<<< Updated upstream
+=======
+
+hello two
+------------------
+------------------
+
+ DAy 3
+
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+stash file 
+>>>>>>> Stashed changes
+=======
+stash file 
+>>>>>>> Stashed changes
+=======
+stash file 
+>>>>>>> Stashed changes
