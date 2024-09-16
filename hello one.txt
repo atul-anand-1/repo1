@@ -11,6 +11,10 @@ hello two
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+stash file 
+>>>>>>> Stashed changes
+=======
 stash file 
 >>>>>>> Stashed changes
 =======
